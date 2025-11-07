@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Attendance System",
+  "description": "An AI-based attendance system that uses face recognition to identify students, automatically mark attendance, and simulate sending WhatsApp notifications in real time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
